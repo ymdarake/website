@@ -1,5 +1,6 @@
 +++
 template = "page.html"
+title = "About ymdarke"
 +++
 
 ## Hello, I'm ymdarake.
