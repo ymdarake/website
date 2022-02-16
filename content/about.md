@@ -24,11 +24,13 @@ Have built web services, enterprise applications, and like so.
 
 I'm interested in farming, and have done 'tiny' farming in my backyard.
 
-These days, T've been wanting to try bush craft and bumboo craft.
+These days, I've been wanting to try bush craft and bumboo craft.
 
 ### Where I am
 
-Currently in Japan, hoping to go to French after COVID stuffs.
+Currently in Japan, hoping to go to France after COVID stuffs.
+
+I was in New Zealand in 2019 and 2020. 
 
 ### So...
 
