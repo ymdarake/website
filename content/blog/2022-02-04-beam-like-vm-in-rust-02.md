@@ -8,6 +8,7 @@ tags = [ "Rust", "VM" ]
 引き続き、BEAM-like VM in Rust をしていく。
 
 今日は<a href="https://blog.subnetzero.io/post/building-language-vm-part-02/" target="_blank" rel="noopener noreferrer">Part 02</a>。
+
 VMにプログラムとプログラムカウンタを持たせて、ループして処理していく。
 
 この辺は後でどんどん最適化？していくらしい。
@@ -20,7 +21,7 @@ VMが入力のプログラム(いまはただの`Vec<u8>`)をループしてOpco
 
 Part02 にしてプログラム(とテスト)の骨格が出来てきていい感じ。
 
-**おまけ**
+### おまけ
 
 ブログの筆者がテストを逐一書いていくスタイルなので、
 それならばということで GitHub Actions を追加して、
