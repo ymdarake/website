@@ -47,8 +47,9 @@ author = "ymdarake"
 footer_about = ""
 
 footer_page = """
-© 2022, ymdarake all rights reserved
-Powered by <a href="https://www.getzola.org/" target="_blank" rel="noopener noreferrer">zola</a>,  <a href="https://github.com/bennetthardwick/simple-dev-blog-zola-starter" target="_blank" rel="noopener noreferrer">simple dev-blog theme</a>.
+© 2022, ymdarake all rights reserved.
+
+Powered by <a href="https://www.getzola.org/" target="_blank" rel="noopener noreferrer">zola</a>, <a href="https://github.com/bennetthardwick/simple-dev-blog-zola-starter" target="_blank" rel="noopener noreferrer">simple dev-blog theme</a>.
 """
 
 not_found_message = """
