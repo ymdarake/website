@@ -21,6 +21,8 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
+dark_mode = true
+
 nav = [
   { name = "About", path = "/about/" },
   { name = "Blog", path = "/blog/" },
@@ -28,3 +30,24 @@ nav = [
   { name = "GitHub", path = "https://github.com/ymdarake" }
 ]
 
+default_og_image = "icon.png"
+icon = "icon.png"
+profile_small = "icon.png"
+profile_large = "profile.jpg"
+
+accent = "#05a081"
+accent_light = "#82d0c0"
+
+author = "ymdarake"
+
+footer_about = """
+A simple dev-blog theme created by Bennett. You can follow him on [Github](https://github.com/bennetthardwick) (if you like).
+"""
+
+footer_page = """
+© 2022, all rights reserved
+"""
+
+not_found_message = """
+This is not the page you're looking for... return back to [safety?](/)
+"""
