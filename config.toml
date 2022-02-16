@@ -24,6 +24,7 @@ highlight_code = true
 nav = [
   { name = "About", path = "/about/" },
   { name = "Blog", path = "/blog/" },
+  { name = "Tags", path = "/tags/" },
   { name = "GitHub", path = "https://github.com/ymdarake" }
 ]
 
