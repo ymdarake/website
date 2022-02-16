@@ -24,7 +24,7 @@ Have built web services, enterprise applications, and like so.
 
 I'm interested in farming, and have done 'tiny' farming in my backyard.
 
-These days, T've been wanting to try bush craft and bumboo craft.
+These days, I've been wanting to try bush craft and bumboo craft.
 
 ### Where I am
 
