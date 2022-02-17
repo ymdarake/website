@@ -29,6 +29,7 @@ dark_mode = true
 
 nav = [
   { name = "About", path = "/about/" },
+  { name = "Now", path = "/now/" },
   { name = "Blog", path = "/blog/" },
   { name = "Tags", path = "/tags/" },
   { name = "GitHub", path = "https://github.com/ymdarake" }
