@@ -49,7 +49,7 @@ footer_about = ""
 
 footer_page = """
 © 2022, ymdarake all rights reserved.
-
+<a href="/atom.xml" target="_blank">feed</a>
 Powered by <a href="https://www.getzola.org/" target="_blank" rel="noopener noreferrer">zola</a>, <a href="https://github.com/bennetthardwick/simple-dev-blog-zola-starter" target="_blank" rel="noopener noreferrer">simple dev-blog theme</a>.
 """
 
