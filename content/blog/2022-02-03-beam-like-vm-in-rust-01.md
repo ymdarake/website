@@ -1,5 +1,6 @@
 +++
 title = "Rustで作るBEAMライクなLanguage VM - 1"
+description = "Rustで、Erlang VMのようなVMをレジスターベースで書いていきます。(Part 1)"
 [taxonomies]
 tags = [ "Rust", "VM" ]
 +++
