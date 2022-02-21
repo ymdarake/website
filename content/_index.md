@@ -1,5 +1,5 @@
 +++
-title = "Blog TOP"
+title = "ymdaiake's thoughts"
 +++
 
 ## Hello, I'm ymdarake. Welcome!
