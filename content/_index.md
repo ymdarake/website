@@ -4,8 +4,8 @@ title = "Blog TOP"
 
 ## Hello, I'm ymdarake. Welcome!
 
-This is a simple blog and playground also.
+This is a [simple dev blog](/blog/) by a software engineer.
 
-If you're still making up your mind, feel free to take a look around by clicking the [about](/about/) and [blog](/blog/) nav links.
+Currently [blog](/blog/) is written only in Japanese, but I'm planning to write in English too.
 
-Hope you enjoy my thoughts!
+[Now page](/now/) is where you can know what I'm working on now.
