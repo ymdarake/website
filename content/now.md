@@ -22,3 +22,10 @@ title = "Now | ymdararke"
 and more...
 
 _Last updated 18th, Feb, 2022_
+
+<br>
+<br>
+
+This page is inspired by the <a href="https://nownownow.com/about" target="_blank" rel="noindex nofollow noopener">Now page movement</a>.
+
+
