@@ -9,10 +9,11 @@ title = "Now | ymdararke"
   * Building a mobile app with Flutter/Android
   * Building micro services in Golang
   * Coding some random React stuffs
-  * feel free to contact me @ [GitHub](https://github.com/ymdarake/website/issues/new)
+  * feel free to contact me @ [GitHub](https://github.com/ymdarake/website/issues/new) or c2FrYW1vdG8udGFrdW1pLmRldlthdF1nbWFpbFsuXWNvbQ==
 * Working on Computer Science-ish studies
   * [BEAM-like VM in Rust](/blog/beam-like-vm-in-rust-01)
   * [Reading Three Implementation Models for Scheme](https://github.com/ymdarake/reading-three-implementation-models-for-scheme)
+  * [IU Compiler Course](https://github.com/IUCompilerCourse/IU-P423-P523-E313-E513-Fall-2020)
 * Learning farming
   * Taking care of veges in my backyard
   * Learning theories on nurturing soil
@@ -21,7 +22,7 @@ title = "Now | ymdararke"
 
 and more...
 
-_Last updated 18th, Feb, 2022_
+_Last updated 23rd, Feb, 2022_
 
 <br>
 <br>
