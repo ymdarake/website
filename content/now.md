@@ -9,7 +9,7 @@ title = "Now | ymdararke"
   * Building a mobile app with Flutter/Android
   * Building micro services in Golang
   * Coding some random React stuffs
-  * feel free to contact me @ [GitHub](https://github.com/ymdarake/website/issues/new) or c2FrYW1vdG8udGFrdW1pLmRldlthdF1nbWFpbFsuXWNvbQ==
+  * feel free to contact me @ [GitHub](https://github.com/ymdarake/website/issues/new) or <span>c2FrYW1vdG8udGFrdW1pLmRldlthdF1nbWFpbFsuXWNvbQ==</span>
 * Working on Computer Science-ish studies
   * [BEAM-like VM in Rust](/blog/beam-like-vm-in-rust-01)
   * [Reading Three Implementation Models for Scheme](https://github.com/ymdarake/reading-three-implementation-models-for-scheme)
