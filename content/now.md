@@ -14,6 +14,7 @@ title = "Now | ymdararke"
   * [BEAM-like VM in Rust](/blog/beam-like-vm-in-rust-01)
   * [Reading Three Implementation Models for Scheme](https://github.com/ymdarake/reading-three-implementation-models-for-scheme)
   * [IU Compiler Course](https://github.com/IUCompilerCourse/IU-P423-P523-E313-E513-Fall-2020)
+  * [MikanOS](https://github.com/uchan-nos/mikanos)
 * Learning farming
   * Taking care of veges in my backyard
   * Learning theories on nurturing soil
