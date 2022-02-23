@@ -31,6 +31,7 @@
 .slider:before {
   background-image: url("/image/moon.svg");
   background-size: contain;
+  background-repeat: no-repeat;
   bottom: 4px;
   content: "";
   height: 26px;
