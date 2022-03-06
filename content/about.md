@@ -15,11 +15,11 @@ Let me tell you about me a little bit, first of all.
 
 #### 1. Software Engineering
 
-I've been working as a software engineer since April, 2015.
+I've been working as a software engineer for about 7 years.
 
 Have built web services, enterprise applications, and like so.
 
-> Here, I'll write more in the near future...
+Futher information is on [Now page](/now/).
 
 #### 2. Farming
 
@@ -27,11 +27,12 @@ I'm interested in farming, and have done 'tiny' farming in my backyard.
 
 These days, I've been wanting to try bush craft and bumboo craft.
 
-### Where I am
+### Where I have been
 
-Currently in Japan, hoping to go to France after COVID stuffs.
+- Mostly Japan
+- New Zealand
+- hoping to live in France after COVID stuffs
 
-I was in New Zealand in 2019 and 2020. 
 
 ### So...
 
